@@ -1,0 +1,51 @@
+.red-box {
+	width: 320px;
+	height: 320px;
+	background-color: #ff0000; 
+	margin: 10px;
+	position: relative;
+}
+
+.purple-box {
+	width: 160px;
+	height: 160px;
+	background-color: #800080;
+	position: absolute;
+	left: 80px;
+	top: 80px;
+}
+
+.yellow-box {
+	width: 80px;
+	height: 80px;
+	background-color: #ffff00;
+	position: absolute;
+	left: 80px;
+	top: 80px;
+}
+
+/* Segunda caja */
+
+.blue-box {
+	width: 320px;
+	height: 320px;
+	background-color: #0000ff; 
+	margin: 10px;
+	position: relative;
+}
+
+.green-box {
+	width: 160px;
+	height: 160px;
+	background-color: #008000;
+	position: absolute;
+	left: 80px;
+	top: 80px;
+}
+
+.black-box {
+	width: 80px;
+	height: 80px;
+	background-color: #000;
+	position: absolute;
+}
